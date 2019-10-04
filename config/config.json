@@ -1,9 +1,0 @@
-{
-    "port":3000,
-    "localMysql":{
-        "host" :"localhost",
-        "user" : "root",
-        "password":"Tload@123",
-        "database":"laravel"
-    }
-}
